@@ -15,11 +15,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #5cb874;
+  color: #77c2bd;
 }
 
 a:hover {
-  color: #80c792;
+  color: #77c2bd;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5cb874;
+  background: #77c2bd;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #78c48c;
+  background: #77c2bd;
   color: #fff;
 }
 .back-to-top.active {
@@ -167,12 +167,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 4px;
-  border: 2px solid #31788a;
+  border: 2px solid #77c2bd;
   transition: 0.3s;
   font-size: 14px;
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
-  background: #5cb874;
+  background: #77c2bd9c;
   color: #fff;
 }
 .navbar .dropdown ul {
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #5cb874;
+  color: #77c2bd;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #222222;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #5cb874;
+  color: #77c2bd;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #5cb874;
+  color: #77c2bd;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -429,10 +429,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
- background: #26728b;;
+ background: #5d9490;;
 }
 #hero .btn-get-started:hover {
-  background: #124e61;
+  background: #77c2bd;
 }
 @media (max-width: 992px) {
   #hero {
@@ -497,7 +497,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #5cb874;
+  background: #77c2bd;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -536,7 +536,7 @@ section {
   transition: 0.3s;
 }
 .featured-services .icon-box:hover .title a {
-  color: #5cb874;
+  color: #77c2bd;
 }
 .featured-services .description {
   line-height: 24px;
@@ -585,7 +585,7 @@ section {
   display: block;
   font-size: 24px;
   font-weight: 400;
-  color: #6ec083;
+  color: #77c2bd;
 }
 .why-us .content-item h4 {
   font-size: 26px;
@@ -624,10 +624,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5cb874;
+  border: 1px solid #77c2bd;
 }
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5cb874;
+  background-color: #77c2bd;
 }
 
 /*--------------------------------------------------------------
@@ -689,7 +689,7 @@ section {
   color: #fff;
 }
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #77c2bd;
 }
 .services .iconbox-orange i {
   color: #ffa76e;
@@ -741,7 +741,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #5cb874;
+  background: #77c2bd;
   padding: 80px 0;
 }
 .cta h3 {
@@ -768,7 +768,7 @@ section {
 }
 .cta .cta-btn:hover {
   background: #fff;
-  color: #5cb874;
+  color: #77c2bd;
 }
 @media (max-width: 1024px) {
   .cta {
@@ -810,7 +810,7 @@ section {
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5cb874;
+  background: #77c2bd;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -877,7 +877,7 @@ section {
   transition: 0.3s;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #6ec083;
+  color: #77c2bd;
 }
 .portfolio .portfolio-wrap:hover::before {
   opacity: 1;
@@ -982,7 +982,7 @@ section {
   transition: 0.3s;
 }
 .team .member .social a:hover {
-  color: #5cb874;
+  color: #77c2bd;
 }
 .team .member .social i {
   font-size: 18px;
@@ -993,8 +993,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #5cb874;
-  border-bottom: 3px solid #5cb874;
+  border-top: 3px solid #77c2bd;
+  border-bottom: 3px solid #77c2bd;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1002,7 +1002,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #5cb874;
+  color: #77c2bd;
   float: left;
   width: 44px;
   height: 44px;
@@ -1044,17 +1044,17 @@ section {
   margin-right: 10px;
 }
 .contact .info .social-links a:hover {
-  background: #5cb874;
+  background: #77c2bd;
   color: #fff;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #5cb874;
+  background: #77c2bd;
   color: #fff;
 }
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #5cb874;
-  border-bottom: 3px solid #5cb874;
+  border-top: 3px solid #77c2bd;
+  border-bottom: 3px solid #77c2bd;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1115,7 +1115,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #5cb874;
+  background: #77c2bd;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1123,7 +1123,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #6ec083;
+  background: #77c2bd;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1219,7 +1219,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5cb874;
+  background: #77c2bd;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1231,7 +1231,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #449d5b;
+  background: #77c2bd;
   color: #fff;
   text-decoration: none;
 }
@@ -1248,3 +1248,7 @@ section {
   object-fit: cover;
 }
 
+.logoInsta {
+  font-size: 48px;
+  
+}
