@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .carousel-item::before {
   content: "";
-  background-color: rgba(186, 236, 240, 0.8);
+  background-color: rgba(132, 171, 173, 0.664);
 }
 #hero .carousel-container {
   display: flex;
