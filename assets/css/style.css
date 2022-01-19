@@ -1252,3 +1252,19 @@ section {
   font-size: 48px;
   
 }
+.divProductos {
+ padding-top: 50px;
+ 
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  background-color:cadetblue;
+}
+.main {background: rgb(218,228,228);
+  background: -moz-linear-gradient(90deg, rgba(218,228,228,1) 2%, rgba(79,116,130,1) 100%, rgba(6,57,79,1) 100%, rgba(175,195,201,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(218,228,228,1) 2%, rgba(79,116,130,1) 100%, rgba(6,57,79,1) 100%, rgba(175,195,201,1) 100%);
+  background: linear-gradient(90deg, rgba(218,228,228,1) 2%, rgba(79,116,130,1) 100%, rgba(6,57,79,1) 100%, rgba(175,195,201,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#dae4e4",endColorstr="#afc3c9",GradientType=1);
+}
+
