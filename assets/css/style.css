@@ -1263,4 +1263,6 @@ section {
   justify-content: center;
   background-color:cadetblue;
 }
-
+img {
+  object-fit:contain;
+}
