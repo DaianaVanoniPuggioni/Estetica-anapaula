@@ -1263,6 +1263,16 @@ section {
   justify-content: center;
   background-color:cadetblue;
 }
-img {
+<<<<<<< HEAD
+
+=======
+
+.capsulaImg {
+  width: 500px;
+  height: auto;
+  object-fit: cover;
+}
+>>>>>>> 17d12fbd63b5257e11534e8df3c27b2b250ea947
+.card-img-top {
   object-fit:contain;
 }
