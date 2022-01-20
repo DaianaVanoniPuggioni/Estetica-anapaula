@@ -1264,3 +1264,8 @@ section {
   background-color:cadetblue;
 }
 
+.capsulaImg {
+  width: 500px;
+  height: auto;
+  object-fit: cover;
+}
