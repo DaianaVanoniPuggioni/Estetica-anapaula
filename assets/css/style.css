@@ -471,7 +471,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  
 }
 .section-title h2 {
   font-size: 32px;
@@ -1230,7 +1230,7 @@ section {
   height: 36px;
   transition: 0.3s;
 }
-#footer .social-links a:hover {
+#footer .social-links a{
   background: #77c2bd;
   color: #fff;
   text-decoration: none;
@@ -1262,6 +1262,11 @@ section {
   display: flex;
   justify-content: center;
   background-color:cadetblue;
+  border: none;
+}
+.btn:hover {
+  background-color: rgba(13, 82, 50, 0.747);
+  transition-delay: initial;
 }
 
 .capsulaImg {
