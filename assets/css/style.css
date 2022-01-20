@@ -1047,7 +1047,7 @@ section {
   background: #77c2bd;
   color: #fff;
 }
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i, .info .horarios:hover i {
   background: #77c2bd;
   color: #fff;
 }
