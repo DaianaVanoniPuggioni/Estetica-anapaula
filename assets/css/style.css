@@ -225,6 +225,12 @@ h1, h2, h3, h4, h5, h6 {
   .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
+  .capsulaImg {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+  
+  }
 }
 
 /**
@@ -603,6 +609,21 @@ section {
   .why-us .content-item {
     padding: 40px 0;
   }
+  .capsulaImg {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+  }
+  
+}
+
+@media (max-width: 400px) {
+  .capsulaImg {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+  }
+  
 }
 
 /*--------------------------------------------------------------
@@ -773,6 +794,11 @@ section {
 @media (max-width: 1024px) {
   .cta {
     background-attachment: scroll;
+  }
+  .capsulaImg {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
   }
 }
 @media (min-width: 769px) {
@@ -1186,6 +1212,11 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+  .capsulaImg {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1269,20 +1300,18 @@ section {
   transition-delay: initial;
 }
 
-.capsulaImg {
-  width: 500px;
-  height: auto;
-  object-fit: cover;
-}
-
 .card-img-top {
   object-fit:contain;
 }
 .fa-shopping-cart  {
   margin-left: 10px;
 }
+<<<<<<< HEAD
 .card-text {
   font-weight: bold;
   
 
 }
+=======
+
+>>>>>>> 9aeec23b42ba3174588eee7d8b9ba1b6289f228a
