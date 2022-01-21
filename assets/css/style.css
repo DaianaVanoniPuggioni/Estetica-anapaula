@@ -1313,4 +1313,6 @@ section {
 
 }
 
-
+.fa-shopping-cart:before {
+  font-size: 30px;
+}
