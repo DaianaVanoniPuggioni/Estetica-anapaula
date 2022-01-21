@@ -807,11 +807,6 @@ section {
     align-items: center;
     justify-content: flex-end;
   }
-  .capsulaImg {
-    width: 500px;
-    height: auto;
-    object-fit: cover;
-  }
 }
 
 /*--------------------------------------------------------------
