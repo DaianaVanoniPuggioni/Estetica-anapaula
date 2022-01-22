@@ -248,6 +248,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+
+@media (min-width: 1367px) {
+   .capsulaImg {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+  
+  }
+
+}
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
@@ -256,6 +266,7 @@ h1, h2, h3, h4, h5, h6 {
   .navbar ul {
     display: none;
   }
+
 }
 .navbar-mobile {
   position: fixed;
@@ -447,11 +458,15 @@ h1, h2, h3, h4, h5, h6 {
   #hero .carousel-container {
     top: 66px;
   }
+  section {
+    padding: 0px 0px;
+}
 }
 @media (max-width: 768px) {
   #hero h2 {
     font-size: 28px;
   }
+  
 }
 @media (min-width: 1024px) {
   #hero .carousel-control-prev, #hero .carousel-control-next {
@@ -508,7 +523,7 @@ section {
   left: calc(50% - 20px);
 }
 .section-title p {
-  margin-bottom: 0;
+  margin-bottom: 30px ;
   font-size: 14px;
   color: #919191;
 }
@@ -614,6 +629,7 @@ section {
     height: auto;
     object-fit: cover;
   }
+  
   
 }
 
@@ -807,6 +823,7 @@ section {
     align-items: center;
     justify-content: flex-end;
   }
+
 }
 
 /*--------------------------------------------------------------
@@ -1180,6 +1197,9 @@ section {
   .breadcrumbs {
     margin-top: 66px;
   }
+  section {
+    padding: 10px 0px;
+}
 }
 .breadcrumbs h2 {
   font-size: 28px;
@@ -1217,6 +1237,7 @@ section {
     height: auto;
     object-fit: cover;
   }
+ 
 }
 
 /*--------------------------------------------------------------
