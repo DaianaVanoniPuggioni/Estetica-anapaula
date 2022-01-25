@@ -1337,3 +1337,11 @@ section {
 .fa-cart-arrow-down:before {
   font-size: 30px;
 }
+
+.page-link {
+  color: cadetblue;
+}
+
+.page-link:hover {
+  color: cadetblue;
+}
