@@ -52,9 +52,30 @@
       "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/310/155/products/concentrado-acido-hialuronico1-0fbae5f55348b8504e15863721826918-640-0.jpg"
       
     },
+
+    <!--card6--> 
+      <div class="card m-2 col-lg-3 col-md-6 d-flex align-items-stretc" style="width: 18rem; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+        <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/img_20170523_14354903811-65130f9bca0331e19c14955668373279-480-0.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">CORRECTOR DE OJERAS</h5>
+          <h6>COLOR: natural o beige</h6>
+          <p class="card-text">$1,300.00</p>
+          <a href="#" class="btn btn-primary">Agregar<i class="fas fa-shopping-cart"></i></a>
+        </div>
+      </div>
+      <!--card7--> 
+      <div class="card m-2 col-lg-3 col-md-6 d-flex align-items-stretc" style="width: 18rem; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_823214-MLA48485748369_122021-O.jpg" class="card-img-top" style="height: 257px; width: 257px;" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">CREMA CON COENZIMA Q10 Y HIALURÓNICO</h5>
+          <h6>Bajo tenor graso</h6>
+          <p class="card-text">$1,100.00</p>
+          <a href="#" class="btn btn-primary">Agregar<i class="fas fa-shopping-cart"></i></a>
+        </div>
+      </div>
     {
       "id": 6,
-      "nombre": "Pulidonis m12",
+      "nombre": "CORRECTOR DE OJERAS",
       "tipo": "Suculenta",
       "desc": "Una suculenta de exterior",
       "precio": 500,
