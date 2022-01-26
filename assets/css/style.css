@@ -1363,3 +1363,6 @@ p {
   background-color:cadetblue ;
   color: white;
 }
+.divParrafo p {
+text-align: justify;
+}
