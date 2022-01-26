@@ -62,7 +62,7 @@ function CompraFinal(serranosStorage) {
           <div class="card border-warning mb-3" id="serranosCarrito${indice.id} style="max-width: 540px;">
     <div class="row g-0">
       <div class="col-md-4">
-        <img src="./img/${element.img}" class="img-fluid rounded-start"  alt="imagen">
+        <img src="${element.img}" class="img-fluid rounded-start"  alt="imagen">
       </div>
       <div class="col-md-8">
         <div class="card-body">
