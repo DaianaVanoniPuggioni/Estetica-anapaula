@@ -1335,7 +1335,7 @@ section {
 }
 
 .fa-cart-arrow-down:before {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .page-link {
@@ -1347,4 +1347,8 @@ section {
 }
 p {
   font-family: 'Raleway', sans-serif;
+}
+
+.bx-store-alt::before {
+  font-size: 25px;
 }
