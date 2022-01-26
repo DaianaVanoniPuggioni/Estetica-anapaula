@@ -19,21 +19,16 @@ fetch('productos.json')
       productosSerranos.innerHTML += `
 
        <div class="card border-secondary mb-3" id="producto${indice}" style="width: 18rem; margin:10px;">
-       <img src='https://www.filo.news/export/sites/claro/img/2017/04/27/-1071738764-interior.gif' class="loader">
-  <img src="${element.img}" class="card-img-top" alt="imagen" style="height: 257px; width: 257px;">
-  <div class="card-body">
-    <h5 class="card-title">${element.nombre}</h5>
-   
-    <p class="card-text">${element.desc}</p>
-    <p class="card-text">Precio:$${element.precio}</p>
-    <p class="card-text">Stock:${element.stock}</p>
-
-
-    <button id="botonSerrano${indice}" class="btn btn-secondary botonSerranos">Agregar <i class="fas fa-spa"></i></button>
-  </div>
-</div>
-       
-       
+        <img src='https://www.filo.news/export/sites/claro/img/2017/04/27/-1071738764-interior.gif' class="loader">
+        <img src="${element.img}" class="card-img-top" alt="imagen" style="height: 257px; width: 257px;">
+        <div class="card-body">
+          <h5 class="card-title">${element.nombre}</h5>
+          <p class="card-text">${element.desc}</p>
+          <p class="card-text">Precio:$${element.precio}</p>
+          <p class="card-text">Stock:${element.stock}</p>
+          <button id="botonSerrano${indice}" class="btn btn-primary botonSerranos">Agregar <i class="fas fa-spa"></i></button>
+        </div>
+      </div>
        `
 
     });

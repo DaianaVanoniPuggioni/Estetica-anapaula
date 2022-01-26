@@ -11,42 +11,45 @@
     },
     {
       "id": 2,
-      "nombre": "Trio m12 cuadrada",
+      "nombre": "AGUA MICELAR",
       "tipo": "Suculenta",
-      "desc": "Una suculenta de exterior",
-      "precio": 350,
+      "desc": "Locion limpiadora para piel sensible, con aloe vera y pepino",
+      "precio": 1000,
       "stock": "5",
       "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/agua-micelar-limpiadora-piel-sensible-pepino-aloe1-babc1683b80abad54715105897598111-640-0.jpg"
       
     },
+ 
     {
       "id": 3,
-      "nombre": "Kalanchoe m12",
+      "nombre": "COLLAGEN PEPTIDES",
       "tipo": "Suculenta",
-      "desc": "Una suculenta de exterior",
-      "precio": 250,
+      "desc": "Los péptidos de colágeno Nature's Plus brindan el colágeno de más alta calidad",
+      "precio": 3500,
       "stock": "5",
       "img": "https://www.farmaciaserra.com/media/catalog/product/cache/1/image/600x775/9df78eab33525d08d6e5fb8d27136e95/c/o/collagen-peptides-natures-plus_1.jpg"
       
     },
+
     {
       "id": 4,
-      "nombre": "Aeonium m12",
+      "nombre": "FITOSOMAS",
       "tipo": "Suculenta",
-      "desc": "Una suculenta de exterior",
-      "precio": 650,
-      "stock": "5",
-      "img": "../img/suculenta4.jpg"
-      
-    },
-    {
-      "id": 5,
-      "nombre": "Silver queen m12",
-      "tipo": "Suculenta",
-      "desc": "Una suculenta de exterior",
+      "desc": "Concentrado bio regenerador epidermico. Hidrata todo tipo de piel en forma inmediata.",
       "precio": 800,
       "stock": "5",
-      "img": "../img/suculenta5.jpg"
+      "img": "https://http2.mlstatic.com/D_NQ_NP_676162-MLA40491737748_012020-O.webp"
+      
+    },
+ 
+    {
+      "id": 5,
+      "nombre": "CONCENTRADO DE ACIDO HIALURÓNICO",
+      "tipo": "Suculenta",
+      "desc": "5%",
+      "precio": 1200,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/310/155/products/concentrado-acido-hialuronico1-0fbae5f55348b8504e15863721826918-640-0.jpg"
       
     },
     {

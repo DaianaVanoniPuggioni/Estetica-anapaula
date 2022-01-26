@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: Quicksand;
   color: #444444;
@@ -1313,11 +1314,11 @@ section {
 .btn {
   display: flex;
   justify-content: center;
-  background-color:cadetblue;
   border: none;
 }
 .btn:hover {
-  background-color: rgba(13, 82, 50, 0.747);
+  color: cadetblue;
+  background-color: rgba(95, 158, 160, 0.301) ;
   transition-delay: initial;
 }
 
@@ -1350,5 +1351,15 @@ p {
 }
 
 .bx-store-alt::before {
-  font-size: 25px;
+  font-size: 30px;
+}
+
+.btn-secondary {
+  color: cadetblue;
+  background-color: white;
+}
+
+.btn-primary {
+  background-color:cadetblue ;
+  color: white;
 }
