@@ -46,81 +46,64 @@
       "id": 5,
       "nombre": "CONCENTRADO DE ACIDO HIALURÓNICO",
       "tipo": "Suculenta",
-      "desc": "5%",
+      "desc": "5%. Reafirma y tonifica la piel en forma inmediata",
       "precio": 1200,
       "stock": "5",
       "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/310/155/products/concentrado-acido-hialuronico1-0fbae5f55348b8504e15863721826918-640-0.jpg"
       
     },
 
-    <!--card6--> 
-      <div class="card m-2 col-lg-3 col-md-6 d-flex align-items-stretc" style="width: 18rem; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-        <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/img_20170523_14354903811-65130f9bca0331e19c14955668373279-480-0.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">CORRECTOR DE OJERAS</h5>
-          <h6>COLOR: natural o beige</h6>
-          <p class="card-text">$1,300.00</p>
-          <a href="#" class="btn btn-primary">Agregar<i class="fas fa-shopping-cart"></i></a>
-        </div>
-      </div>
-      <!--card7--> 
-      <div class="card m-2 col-lg-3 col-md-6 d-flex align-items-stretc" style="width: 18rem; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-        <img src="https://http2.mlstatic.com/D_NQ_NP_823214-MLA48485748369_122021-O.jpg" class="card-img-top" style="height: 257px; width: 257px;" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">CREMA CON COENZIMA Q10 Y HIALURÓNICO</h5>
-          <h6>Bajo tenor graso</h6>
-          <p class="card-text">$1,100.00</p>
-          <a href="#" class="btn btn-primary">Agregar<i class="fas fa-shopping-cart"></i></a>
-        </div>
-      </div>
     {
       "id": 6,
       "nombre": "CORRECTOR DE OJERAS",
       "tipo": "Suculenta",
-      "desc": "Una suculenta de exterior",
-      "precio": 500,
+      "desc": "COLOR: natural o beige c/Q10 y Argan",
+      "precio": 1300,
       "stock": "5",
-      "img": "../img/suculenta6.jpg"
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/img_20170523_14354903811-65130f9bca0331e19c14955668373279-480-0.jpg"
       
     },
+
     {
       "id": 7,
-      "nombre": "Astrophytum asterias",
+      "nombre": "CREMA CON COENZIMA Q10 Y HIALURÓNICO",
       "tipo": "Cactus",
-      "desc": "Un cactus de interior",
-      "precio": 590,
+      "desc": "Liposomado. Bajo tenor graso.",
+      "precio": 1100,
       "stock": "5",
-      "img": "../img/cactus2.jpg"
+      "img": "https://http2.mlstatic.com/D_NQ_NP_823214-MLA48485748369_122021-O.jpg"
       
     },
+
     {
       "id": 8,
-      "nombre": "Astrophytum ornatum",
+      "nombre": "CREMA NUTRITIVA",
       "tipo": "Cactus",
-      "desc": "Un cactus de interior",
-      "precio": 500,
+      "desc": "Olio de argan y manteca de leche. Aceite de Germen de trigo",
+      "precio": 1400,
       "stock": "5",
-      "img": "../img/cactus5.jpg"
+      "img": "https://http2.mlstatic.com/D_NQ_NP_787788-MLA41856703535_052020-O.jpg"
       
     },
     {
       "id": 9,
-      "nombre": "Opuntia macrocenta",
+      "nombre": "CREMA PARA MANOS Y CODOS",
       "tipo": "Cactus",
-      "desc": "Un cactus de interior",
-      "precio": 700,
+      "desc": "Con hidrauluronico, trigo y miel",
+      "precio": 1500,
       "stock": "5",
-      "img": "../img/cactus6.jpg"
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/887/684/products/201-8fd15234bb4125b96115889676485689-1024-1024.jpg"
       
     },
+  
     {
       "id": 10,
-      "nombre": "maceta n°14",
+      "nombre": "CREMA PARA MASAJES BIOCOM",
       "tipo": "Maceta",
-      "desc": "maceta decorativa",
-      "precio": 250,
+      "desc": "Reduce y ayuda a controlar la celulitis",
+      "precio": 1600,
       "stock": "5",
-      "img": "../img/maceta4.jpg"
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/reductora-forte-x2501-460718391409b0332615130248702742-1024-1024.jpg"
       
     },
     {
