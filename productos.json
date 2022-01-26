@@ -2,6 +2,7 @@
     {
       "id": 1,
       "nombre": "ACLARANTE DE PECAS Y MANCHAS ",
+      "tipo":"Cactus",
       "desc": "Acido mandelico, vit C y E, Acid kojico",
       "precio": 1900,
       "stock": "5",
@@ -15,7 +16,7 @@
       "desc": "Una suculenta de exterior",
       "precio": 350,
       "stock": "5",
-      "img": "../img/suculenta2.jpg"
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/agua-micelar-limpiadora-piel-sensible-pepino-aloe1-babc1683b80abad54715105897598111-640-0.jpg"
       
     },
     {
@@ -25,7 +26,7 @@
       "desc": "Una suculenta de exterior",
       "precio": 250,
       "stock": "5",
-      "img": "../img/suculenta3.jpg"
+      "img": "https://www.farmaciaserra.com/media/catalog/product/cache/1/image/600x775/9df78eab33525d08d6e5fb8d27136e95/c/o/collagen-peptides-natures-plus_1.jpg"
       
     },
     {
