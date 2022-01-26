@@ -1345,3 +1345,6 @@ section {
 .page-link:hover {
   color: cadetblue;
 }
+p {
+  font-family: 'Raleway', sans-serif;
+}

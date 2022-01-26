@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "nombre": "ACLARANTE DE PECAS Y MANCHAS ",
+      "desc": "Acido mandelico, vit C y E, Acid kojico",
+      "precio": 1900,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/499/300/products/aclarante1-a93e23b7f9bfd5fb0515132674870831-320-01-df05de6a220c2bd11015199280359315-640-0.jpg"
+      
+    },
+    {
+      "id": 2,
+      "nombre": "Trio m12 cuadrada",
+      "tipo": "Suculenta",
+      "desc": "Una suculenta de exterior",
+      "precio": 350,
+      "stock": "5",
+      "img": "../img/suculenta2.jpg"
+      
+    },
+    {
+      "id": 3,
+      "nombre": "Kalanchoe m12",
+      "tipo": "Suculenta",
+      "desc": "Una suculenta de exterior",
+      "precio": 250,
+      "stock": "5",
+      "img": "../img/suculenta3.jpg"
+      
+    },
+    {
+      "id": 4,
+      "nombre": "Aeonium m12",
+      "tipo": "Suculenta",
+      "desc": "Una suculenta de exterior",
+      "precio": 650,
+      "stock": "5",
+      "img": "../img/suculenta4.jpg"
+      
+    },
+    {
+      "id": 5,
+      "nombre": "Silver queen m12",
+      "tipo": "Suculenta",
+      "desc": "Una suculenta de exterior",
+      "precio": 800,
+      "stock": "5",
+      "img": "../img/suculenta5.jpg"
+      
+    },
+    {
+      "id": 6,
+      "nombre": "Pulidonis m12",
+      "tipo": "Suculenta",
+      "desc": "Una suculenta de exterior",
+      "precio": 500,
+      "stock": "5",
+      "img": "../img/suculenta6.jpg"
+      
+    },
+    {
+      "id": 7,
+      "nombre": "Astrophytum asterias",
+      "tipo": "Cactus",
+      "desc": "Un cactus de interior",
+      "precio": 590,
+      "stock": "5",
+      "img": "../img/cactus2.jpg"
+      
+    },
+    {
+      "id": 8,
+      "nombre": "Astrophytum ornatum",
+      "tipo": "Cactus",
+      "desc": "Un cactus de interior",
+      "precio": 500,
+      "stock": "5",
+      "img": "../img/cactus5.jpg"
+      
+    },
+    {
+      "id": 9,
+      "nombre": "Opuntia macrocenta",
+      "tipo": "Cactus",
+      "desc": "Un cactus de interior",
+      "precio": 700,
+      "stock": "5",
+      "img": "../img/cactus6.jpg"
+      
+    },
+    {
+      "id": 10,
+      "nombre": "maceta n°14",
+      "tipo": "Maceta",
+      "desc": "maceta decorativa",
+      "precio": 250,
+      "stock": "5",
+      "img": "../img/maceta4.jpg"
+      
+    },
+    {
+      "id": 11,
+      "nombre": "maceta n°16",
+      "tipo": "Maceta",
+      "desc": "maceta decorativa",
+      "precio": 340,
+      "stock": "5",
+      "img": "../img/maceta5.jpg"
+      
+    },
+    {
+      "id": 12,
+      "nombre": "Maceta n°18",
+      "tipo": "Maceta",
+      "desc": "maceta decorativa",
+      "precio": 400,
+      "stock": "5",
+      "img": "../img/maceta6.jpg"
+      
+    }
+  ]
