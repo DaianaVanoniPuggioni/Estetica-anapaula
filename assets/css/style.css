@@ -1362,7 +1362,9 @@ p {
 .btn-primary {
   background-color:cadetblue ;
   color: white;
+  text-align: center;
 }
 .divParrafo p {
 text-align: justify;
 }
+
