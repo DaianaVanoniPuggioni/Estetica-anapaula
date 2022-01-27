@@ -104,14 +104,27 @@ function CompraFinal(serranosStorage) {
   
   
   botonFinalizar.addEventListener('click', () => {
-    localStorage.setItem('carrito', JSON.stringify([]))
-    arrayProductosSerranos = []
-    actualizarCarrito()
-    swal({
-      title: "¡Gracias por realizar tu compra!",
-      text: "Te enviaremos un correo para coordinar la entrega",
-      icon: "https://cdn.dribbble.com/users/4358240/screenshots/14825308/media/84f51703b2bfc69f7e8bb066897e26e0.gif"
+    if (arrayProductosSerranos ==0){
+      swal({
+        title: "¡Ups no has agregado nada al carrito!",
+        text: "Reintente nuevamente",
+        icon: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b6e0b072897469.5bf6e79950d23.gif"
+    
+      });
   
-    });
+    } else {
+      localStorage.setItem('carrito', JSON.stringify([]))
+      arrayProductosSerranos = []
+      actualizarCarrito()
+      swal({
+        title: "¡Gracias por realizar tu compra!",
+        text: "Te enviaremos un correo para coordinar la entrega",
+        icon: "https://cdn.dribbble.com/users/4358240/screenshots/14825308/media/84f51703b2bfc69f7e8bb066897e26e0.gif"
+    
+      });
+  
+      
+    }
+    
   })
   

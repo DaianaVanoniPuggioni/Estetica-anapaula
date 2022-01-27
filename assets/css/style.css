@@ -1349,6 +1349,9 @@ section {
 p {
   font-family: 'Raleway', sans-serif;
 }
+text {
+  font-family: 'Raleway', sans-serif;
+}
 
 .bx-store-alt::before {
   font-size: 30px;

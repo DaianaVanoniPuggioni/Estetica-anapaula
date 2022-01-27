@@ -54,10 +54,14 @@ fetch('productos.json')
             Toastify({
               text: "Tu producto ha sido agregado al carrito",
               className: "info",
+              duration: 1000,
               style: {
-                background: "black",
+              
+                color:"black",
+                background: "rgba(95, 158, 160, 0.562)",
               }
             }).showToast();
+            1000
           }
           actualizarCarrito()
         } else {
@@ -69,8 +73,11 @@ fetch('productos.json')
           Toastify({
             text: "Tu producto ha sido agregado al carrito",
             className: "info",
+            duration: 1000,
             style: {
-              background: "black",
+              
+              color:"black",
+              background: "rgba(95, 158, 160, 0.562)",
             }
           }).showToast();
           actualizarCarrito()
