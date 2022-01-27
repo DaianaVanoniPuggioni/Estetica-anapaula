@@ -108,22 +108,206 @@
     },
     {
       "id": 11,
-      "nombre": "maceta n°16",
+      "nombre": "CRIO GEL REAFIRMANTE",
       "tipo": "Maceta",
-      "desc": "maceta decorativa",
-      "precio": 340,
+      "desc": "Favorece el retorno venoso y la firmeza de los tejidos",
+      "precio": 1600,
       "stock": "5",
-      "img": "../img/maceta5.jpg"
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/002/098/products/criogel1-101ac4d7265eae6fac16324301797875-640-0.png"
       
     },
     {
       "id": 12,
-      "nombre": "Maceta n°18",
+      "nombre": "DERMO PULIDO CREMA",
       "tipo": "Maceta",
-      "desc": "maceta decorativa",
+      "desc": "Facilita la eliminación de las impurezas y células muertas sin producir hiperemia",
+      "precio": 1500,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/310/155/products/947443-mla27179684908_042018-o-e1aca7ec96a09666c215364269630509-640-01-d3e64d4ea3011a862d16063123740539-640-0.jpg"
+      
+    },
+    {
+      "id": 13,
+      "nombre": "DERMO PULIDO DE UVA CABERNET CORPORAL",
+      "tipo": "Maceta",
+      "desc": "Fimpia, mejora la apariencia y textura de la piel",
+      "precio": 1500,
+      "stock": "5",
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/dermopulido-uva1-80c80e18734ea41cdc16055520783183-1024-1024.jpg"
+      
+    },
+    {
+      "id": 14,
+      "nombre": "DESMAQUILLANTE BIFASICO",
+      "tipo": "Maceta",
+      "desc": "Remoción del maquillaje e impurezas del rostro",
+      "precio": 900,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_910033-MLA41388610883_042020-O.jpg"
+      
+    },
+    {
+      "id": 15,
+      "nombre": "EMULSION DUO DESCONGESTIVO",
+      "tipo": "Maceta",
+      "desc": "Calma la sensación de cansancio",
+      "precio": 2100,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_676890-MLA47712560282_092021-O.jpg"
+      
+    },
+    {
+      "id": 16,
+      "nombre": "ROYAL BRONCE EMULSIÓN",
+      "tipo": "Maceta",
+      "desc": "Aceleradora del bronceado con tonalizado instantaneo",
       "precio": 400,
       "stock": "5",
-      "img": "../img/maceta6.jpg"
-      
+      "img": "https://http2.mlstatic.com/D_NQ_NP_809864-MLA32710834035_102019-O.webp"
+    },
+     {
+      "id": 17,
+      "nombre": "EMULSIÓN BIOREGENERADORA",
+      "tipo": "Maceta",
+      "desc": "Potencian la regeneración cutánea",
+      "precio": 1500,
+      "stock": "5",
+      "img": "https://www.biobellus.com/image/cache/catalog/emulsion%20bioregeneradora%20copia-500x500.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "EMULSIÓN CORPORAL ANTIOXIDANTE",
+      "tipo": "Maceta",
+      "desc": "Hidronutritiva con oliva y uva cabernet",
+      "precio": 800,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_834793-MLA44191010321_112020-O.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "EMULSIÓN CORPORAL ALMENDRAS",
+      "tipo": "Maceta",
+      "desc": "Con vitaminas: A, E, C - Almendras",
+      "precio": 800,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_662885-MLA40427858802_012020-O.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "EMULSIÓN CORPORAL COCO",
+      "tipo": "Maceta",
+      "desc": "Con vitaminas: A, E, C - Aceite de coco",
+      "precio": 800,
+      "stock": "5",
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/emulsion-coco1-159ef7278d2eaaf4f815985571441087-1024-1024.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "EMULSIÓN CORPORAL FRUTOS ROJOS",
+      "tipo": "Maceta",
+      "desc": "Con vitaminas: A, E, C - Frutos Rojos",
+      "precio": 800,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_901180-MLA31113104311_062019-O.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "EMULSION CORPORAL",
+      "tipo": "Maceta",
+      "desc": "Reafirmante, hidratante y antioxidante con q10 y acido hialurónico",
+      "precio": 1300,
+      "stock": "5",
+      "img": "https://acquaria.com.ar/wp-content/uploads/2019/08/ACQUARIA-corporal-reafirmante-antioxidante-Q10-Hialuronico-Carnitina.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "EMULSIÓN LIMPIEZA",
+      "tipo": "Maceta",
+      "desc": "Evanescente. Para cutis con acne con manzanilla y calendula",
+      "precio": 900,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/499/300/products/emulsion-de-limpieza-control-acne-x-125-cc-biocom-d_nq_np_890186-mla27590683293_062018-f1-3be19cb4a32aefdc1915532088296941-640-0.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "EMULSIÓN LIMPIEZA",
+      "tipo": "Maceta",
+      "desc": "Evanescente, textura liviana. Para piel sensible con aloe vera",
+      "precio": 800,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/499/300/products/espuma-limpieza-aloe1-c2f7e27b1790f6f69315375520407480-640-0.jpg"
+    },
+    {
+      "id": 25,
+      "nombre": "EMULSIÓN NUTRITIVA Y RENOVADORA",
+      "tipo": "Maceta",
+      "desc": "Modifica la apariencia de la piel con estrías",
+      "precio": 900,
+      "stock": "5",
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/estrias-control1-c7698172eb1b49387f15420531224661-1024-1024.jpg"
+    },
+    {
+      "id": 26,
+      "nombre": "EMULSIÓN POST ACNÉ DESCONGESTIVA CON HIALURÓNICO",
+      "tipo": "Maceta",
+      "desc": "Vit E, Aloe vera y eucalipto",
+      "precio": 1100,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_927098-MLA31011211873_062019-O.jpg"
+    },
+    {
+      "id": 27,
+      "nombre": "EMULSIÓN REDUCTORA",
+      "tipo": "Maceta",
+      "desc": "Evanescente, suave, levemente perfumada",
+      "precio": 1600,
+      "stock": "5",
+      "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/499/300/products/img_06901-9f863bc66b2653f4ca15380548080232-640-0.jpg"
+    },
+    {
+      "id": 28,
+      "nombre": "ESPUMA DE LIMPIEZA",
+      "tipo": "Maceta",
+      "desc": "Mantiene la piel libre de microorganismos, para cutis graso o tendencia al acne",
+      "precio": 2700,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_990745-MLA32495309831_102019-O.jpg"
+    },
+    {
+      "id": 29,
+      "nombre": "ESPUMA DE LIMPIEZA - REPUESTO",
+      "tipo": "Maceta",
+      "desc": "Para cutis graso o tendencia al acne con acido salicilico",
+      "precio": 1000,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_876283-MLA41454932148_042020-O.jpg"
+    },
+    {
+      "id": 30,
+      "nombre": "ESPUMA PARA MASAJES REDUCTORES",
+      "tipo": "Maceta",
+      "desc": "Mejora el aspecto de la celulitis",
+      "precio": 2700,
+      "stock": "5",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_994513-MLA44860519259_022021-O.jpg"
+    },
+    {
+      "id": 31,
+      "nombre": "ESPUMA PARA MASAJES - REPUESTO",
+      "tipo": "Maceta",
+      "desc": "Mejora el aspecto de la celulitis",
+      "precio": 1000,
+      "stock": "5",
+      "img": "https://www.esteticaanapaulatandil.com.ar/wp-content/uploads/IMG_20210729_162756-300x300.jpg"
+    },
+    {
+      "id": 32,
+      "nombre": "GEL DE LIMPIEZA PROFUNDA ",
+      "tipo": "Maceta",
+      "desc": "Con calendula, manzanila y tilo",
+      "precio": 1000,
+      "stock": "5",
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/032/169/products/gel-limpieza-profunda-descongestivo-x-2501-2d22d1431f77e3eeb116390781651575-1024-1024.png"
     }
   ]
+ 
