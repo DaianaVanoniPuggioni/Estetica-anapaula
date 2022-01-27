@@ -108,7 +108,7 @@ function CompraFinal(serranosStorage) {
       swal({
         title: "¡Ups no has agregado nada al carrito!",
         text: "Reintente nuevamente",
-        icon: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b6e0b072897469.5bf6e79950d23.gif"
+        icon: "https://i.pinimg.com/originals/b5/47/25/b54725fff6adc42716f2c2ee13182161.gif"
     
       });
   
@@ -119,7 +119,7 @@ function CompraFinal(serranosStorage) {
       swal({
         title: "¡Gracias por realizar tu compra!",
         text: "Te enviaremos un correo para coordinar la entrega",
-        icon: "https://cdn.dribbble.com/users/4358240/screenshots/14825308/media/84f51703b2bfc69f7e8bb066897e26e0.gif"
+        icon: "https://i.pinimg.com/originals/71/b8/37/71b837ca48cf5ce94dc8193520d6fdce.gif"
     
       });
   

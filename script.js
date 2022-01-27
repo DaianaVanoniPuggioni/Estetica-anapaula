@@ -18,8 +18,8 @@ fetch('productos.json')
     data.forEach((element, indice) => {
       productosSerranos.innerHTML += `
 
-       <div class="card border-secondary mb-3" id="producto${indice}" style="width: 18rem; margin:10px;">
-        <img src='https://www.filo.news/export/sites/claro/img/2017/04/27/-1071738764-interior.gif' class="loader">
+       <div class="card mb-3 shadow p-3 bg-white rounded" id="producto${indice}" style="width: 18rem; margin:10px;">
+        <img src='https://gifimage.net/wp-content/uploads/2018/06/transparent-loading-gif-images.gif' class="loader">
         <img src="${element.img}" class="card-img-top" alt="imagen" style="height: 257px; width: 257px;">
         <div class="card-body">
           <h5 class="card-title">${element.nombre}</h5>
@@ -54,11 +54,11 @@ fetch('productos.json')
             Toastify({
               text: "Tu producto ha sido agregado al carrito",
               className: "info",
-              duration: 1000,
+              duration: 900,
               style: {
               
-                color:"black",
-                background: "rgba(95, 158, 160, 0.562)",
+                color:"white",
+                background: "rgba(95, 158, 160)",
               }
             }).showToast();
             1000
@@ -73,11 +73,11 @@ fetch('productos.json')
           Toastify({
             text: "Tu producto ha sido agregado al carrito",
             className: "info",
-            duration: 1000,
+            duration: 900,
             style: {
               
-              color:"black",
-              background: "rgba(95, 158, 160, 0.562)",
+              color:"white",
+              background: "rgba(95, 158, 160)",
             }
           }).showToast();
           actualizarCarrito()
