@@ -24,7 +24,7 @@
       "id": 3,
       "nombre": "COLLAGEN PEPTIDES",
       "tipo": "Suculenta",
-      "desc": "Los péptidos de colágeno Nature's Plus brindan el colágeno de más alta calidad",
+      "desc": "Los péptidos de colágeno Nature's Plus brindan el colágeno de alta calidad",
       "precio": 3500,
       "stock": "5",
       "img": "https://www.farmaciaserra.com/media/catalog/product/cache/1/image/600x775/9df78eab33525d08d6e5fb8d27136e95/c/o/collagen-peptides-natures-plus_1.jpg"
@@ -35,7 +35,7 @@
       "id": 4,
       "nombre": "FITOSOMAS",
       "tipo": "Suculenta",
-      "desc": "Concentrado bio regenerador epidermico. Hidrata todo tipo de piel en forma inmediata.",
+      "desc": "Concentrado bio regenerador. Hidrata la piel en forma inmediata.",
       "precio": 800,
       "stock": "5",
       "img": "https://http2.mlstatic.com/D_NQ_NP_676162-MLA40491737748_012020-O.webp"
@@ -66,7 +66,7 @@
 
     {
       "id": 7,
-      "nombre": "CREMA CON COENZIMA Q10 Y HIALURÓNICO",
+      "nombre": "COENZIMA Q10 Y HIALURÓNICO",
       "tipo": "Cactus",
       "desc": "Liposomado. Bajo tenor graso.",
       "precio": 1100,
@@ -120,7 +120,7 @@
       "id": 12,
       "nombre": "DERMO PULIDO CREMA",
       "tipo": "Maceta",
-      "desc": "Facilita la eliminación de las impurezas y células muertas sin producir hiperemia",
+      "desc": "Eliminación de impurezas y células muertas",
       "precio": 1500,
       "stock": "5",
       "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/310/155/products/947443-mla27179684908_042018-o-e1aca7ec96a09666c215364269630509-640-01-d3e64d4ea3011a862d16063123740539-640-0.jpg"
@@ -128,9 +128,9 @@
     },
     {
       "id": 13,
-      "nombre": "DERMO PULIDO DE UVA CABERNET CORPORAL",
+      "nombre": "DERMO PULIDO",
       "tipo": "Maceta",
-      "desc": "Fimpia, mejora la apariencia y textura de la piel",
+      "desc": "Uva Cabernet, Mejora la apariencia y textura de la piel",
       "precio": 1500,
       "stock": "5",
       "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/031/514/products/dermopulido-uva1-80c80e18734ea41cdc16055520783183-1024-1024.jpg"
@@ -284,7 +284,7 @@
     },
     {
       "id": 30,
-      "nombre": "ESPUMA PARA MASAJES REDUCTORES",
+      "nombre": "ESPUMA MASAJES REDUCTORES",
       "tipo": "Maceta",
       "desc": "Mejora el aspecto de la celulitis",
       "precio": 2700,
